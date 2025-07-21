@@ -47,8 +47,8 @@ A Machine Learning-powered web app that accurately predicts employee salaries ba
 
 ### 1. Clone the Repository
 ```bash
-git clone Roshians/Employe-Salary-Prediction-Using-ML
-cd Employe-Salary-Prediction-Using-ML
+git clone https://github.com/shivashankara2/pro.git
+
 ````
 
 ### 2. Create a Virtual Environment
